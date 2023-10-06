@@ -1,2 +1,2 @@
-# Hotel Management System
-Hotel Management System in Django, PostgreSQL, JavaScript and Bootstrap 5
+<h2>Hotel Management System</h2>
+<p>I am building this project in #Django #PostgreSQL #JavaScript #Bootstrap5</p>
